@@ -1,2 +1,2 @@
 # Projetos
-Projetos feitos para a faculdade
+Projetos feitos durante a faculdade de Ciências da Computação
