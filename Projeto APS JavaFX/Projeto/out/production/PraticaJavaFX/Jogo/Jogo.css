@@ -1,0 +1,68 @@
+.fundo-principal, .credito-fundo {
+	-fx-background-color: #E8F5E9;
+}
+
+.titulo {
+	-fx-font-size: 45px;
+	-fx-font-family: "Bungee Spice", sans-serif;
+	-fx-text-fill: #B22222;
+	-fx-font-weight: bold;
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 5, 0, 2, 2);
+	
+}
+
+.botoes {
+    -fx-background-color: #8BC34A; 
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 25px;
+    -fx-background-radius: 25px;
+    -fx-effect: dropshadow(gaussian, #A8C0C8, 5, 0.3, 0, 2);
+}
+
+.botoes:hover {
+    -fx-background-color: #7CB342; 
+    -fx-cursor: hand;
+}
+
+.botoes:pressed {
+	-fx-background-color: #689F38;
+	-fx-translate-y: 2; 
+}
+
+.credito-funcao {
+    -fx-font-size: 30px;
+    -fx-text-fill: #B22222;
+    -fx-font-family: "Bungee Spice", sans-serif;
+    -fx-text-align: center;
+}
+
+.credito-nome {
+    -fx-font-size: 25px;
+    -fx-text-fill: #B22222;
+	-fx-font-family: "Bungee Spice", sans-serif;
+    -fx-text-align: center;
+}
+
+.feedback-erro {
+	-fx-font-size: 25px;
+	-fx-text-fill: #FF0000;
+	-fx-font-family: "Bungee Spice", sans-serif;
+    -fx-text-align: center;
+}
+
+.feedback-acerto {
+	-fx-font-size: 25px;
+	-fx-text-fill: #32CD32;
+	-fx-font-family: "Bungee Spice", sans-serif;
+    -fx-text-align: center;
+}
+
+.feedback-parabens {
+	-fx-font-size: 25px;
+	-fx-text-fill:  #FF4500;
+	-fx-font-family: "Bungee Spice", sans-serif;
+    -fx-text-align: center;
+}
