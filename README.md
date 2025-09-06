@@ -1,2 +1,2 @@
 # Projetos
-Projetos feitos durante a faculdade de Ciências da Computação na UNIP
+Projetos feitos durante a faculdade de Ciências da Computação
